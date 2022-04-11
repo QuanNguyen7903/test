@@ -1,3 +1,3 @@
-if (1 !== 3) {
-  console.log("chet me may chua");
+if (1 !== 2) {
+  console.log("error loi");
 }
