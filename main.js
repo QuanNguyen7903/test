@@ -1,3 +1,3 @@
-if (1 !== 2) {
+if (1 !== 5) {
   console.log("error loi");
 }
