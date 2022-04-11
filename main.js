@@ -1,3 +1,3 @@
-if (1 === 1) {
-  console.log("heelo");
+if (1 !== 2) {
+  console.log("error loi");
 }
